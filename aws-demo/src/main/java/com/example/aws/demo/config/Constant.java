@@ -3,10 +3,10 @@ package com.example.aws.demo.config;
 public final class Constant {
 	
 	// Replace smtp_username with your Amazon SES SMTP user name.
-	public static final String SMTP_USERNAME = "AKIAIPNLDEDKVWGCJ4YQ";
+	public static final String SMTP_USERNAME = "";
     
     // Replace smtp_password with your Amazon SES SMTP password.
-	public static final String SMTP_PASSWORD = "AjaMzcqpQ2dIKLFkDhEcYrlrblbCBbr+omG6AShv+Ik5";
+	public static final String SMTP_PASSWORD = "";
     
     // Amazon SES SMTP host name. This example uses the US West (Oregon) region.
     // See http://docs.aws.amazon.com/ses/latest/DeveloperGuide/regions.html#region-endpoints
